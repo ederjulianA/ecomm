@@ -1,0 +1,3 @@
+git remote add ecomm https://github.com/ederjulianA/ecomm
+
+ git push --set-upstream ecomm master
