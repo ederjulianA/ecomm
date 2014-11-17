@@ -1,0 +1,18 @@
+*{
+	font-size: 16px;
+}
+ul.productos li {
+	display: block;
+	list-style: none;
+}
+ul.productos li img, ul.productos li form{
+	display: inline;
+}
+
+#admin {
+	margin: 0 auto;
+	max-width: 100%;
+	text-align: center;
+	width: 80%;
+}
+
